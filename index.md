@@ -2,4 +2,4 @@
 
 ## Max Jax Testing
 
-$f(x) = \sin{x}$
+$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
