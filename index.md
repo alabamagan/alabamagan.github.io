@@ -2,4 +2,4 @@
 
 ## Max Jax Testing
 
-$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
+$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$
